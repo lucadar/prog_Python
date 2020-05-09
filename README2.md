@@ -1,1 +1,0 @@
-Indicazioni iniziali sul progetto
